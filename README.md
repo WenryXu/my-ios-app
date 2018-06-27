@@ -7,7 +7,7 @@
 - Surge - 网络调试工具，收费，很贵
 - [收趣](https://itunes.apple.com/cn/app/id1072254626) - 云收藏夹、云书签夹，可以理解为类似 Pocket 的稍后阅读工具
 - [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
-- [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
+- [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
 
 ## 留着让孩子增加知识的 App
 
@@ -21,9 +21,9 @@
 
 - [纪念碑谷](https://itunes.apple.com/cn/app/id728293409) - 精妙的几何视错，收费
 - [纪念碑谷 2](https://itunes.apple.com/cn/app/id1238778050) - 精妙的几何视错，收费
-- [shadowmatic](https://itunes.apple.com/cn/app/id775888026) - 找出能过关的物体投影，收费
+- [shadowmatic](https://itunes.apple.com/cn/app/id775888026) - 找出能过关的物体投影，收费
 - [-look-](https://itunes.apple.com/cn/app/id1310308475) - 找出堆积的方块的三视图，收费
-- [Tsuro 通路](https://itunes.apple.com/cn/app/id957124541) - 在棋盘上画出道路，将对方引出棋盘，收费
+- [Tsuro 通路](https://itunes.apple.com/cn/app/id957124541) - 在棋盘上画出道路，将对方引出棋盘，收费
 - [\_-\_](https://itunes.apple.com/cn/app/id1315674869) - 将互有关联的几条短线放在一条线上
 - [兵者](https://itunes.apple.com/cn/app/id1190509527) - 用象棋的规则解决象棋中不可能存在的谜题
 - [ston](https://itunes.apple.com/cn/app/id1238293204) - 可玩度超高的变体「一笔画」游戏
@@ -36,18 +36,18 @@
 
 - [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
 - [OneScreen](https://itunes.apple.com/cn/app/id1355476695) - 带壳截屏，By DEHANG CHEN，收费
-- [小龟壳截屏](https://itunes.apple.com/cn/app/id1358168548) - 带壳截屏与截图美化,By Phoenix Tree Studio
+- [小龟壳截屏](https://itunes.apple.com/cn/app/id1358168548) - 带壳截屏与截图美化,By Phoenix Tree Studio
 - [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
 - [Time 时间卡](https://itunes.apple.com/cn/app/id1347998487) - 「累计日」与「倒数日」，不支持农历
 - [Cuto](https://itunes.apple.com/cn/app/id1068086465) - 壁纸精选
-- [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
+- [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 
 ## 虽然不怎么用，但设计令我喜欢
 
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
 - [微信读书](https://itunes.apple.com/cn/app/id952059546)
-- [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式的首页与「微信读书」有异曲同工之妙，但又各具特色
+- [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式的首页与「微信读书」有异曲同工之妙，但又各具特色
 - [ONE · 一个](https://itunes.apple.com/cn/app/id539190656) - 日推精选内容，包含多种内容形态
 - [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是创意和颜值
 - [片刻](https://itunes.apple.com/cn/app/id791086961) - 一个社区
