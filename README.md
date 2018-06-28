@@ -8,6 +8,7 @@
 - [收趣](https://itunes.apple.com/cn/app/id1072254626) - 云收藏夹、云书签夹，可以理解为类似 Pocket 的稍后阅读工具
 - [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
 - [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
+- [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
 
 ## 留着让孩子增加知识的 App
 
@@ -51,6 +52,7 @@
 - [ONE · 一个](https://itunes.apple.com/cn/app/id539190656) - 日推精选内容，包含多种内容形态
 - [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是创意和颜值
 - [片刻](https://itunes.apple.com/cn/app/id791086961) - 一个社区
+- [日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
 
 ## 其他推荐
 
