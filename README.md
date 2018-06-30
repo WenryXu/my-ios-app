@@ -59,4 +59,3 @@
 - [圈子](https://itunes.apple.com/cn/app/id1299590483) - 群组与社区，面向粉丝的专属主题社区
 - [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
 - [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
-- [火球买手](https://itunes.apple.com/cn/app/id1070842761) - 或许会在不经意间发现令你惊喜的新奇物品
