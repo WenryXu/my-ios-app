@@ -32,6 +32,10 @@
 - [墙壁和球](https://itunes.apple.com/cn/app/id1083708143) - 凭空创造墙壁，将球弹进黑洞去
 - [点线交织](https://itunes.apple.com/cn/app/id1247895794) - 在一个绕着线的钉板上，不交叉地将线从一个形状绕成另一个形状
 - [Hexio](https://itunes.apple.com/cn/app/id1338697670) - 消除 + 俄罗斯方块，将颜色相同、形状不同的方块拼接成需要的形状并消除
+- [迷失岛](https://itunes.apple.com/cn/app/id1134805859) - 解密逃脱类游戏，收费
+- [迷失岛 2](https://itunes.apple.com/cn/app/id1320750997) - 解密逃脱类游戏，收费
+- [FRAMED](https://itunes.apple.com/cn/app/id886565180) - 通过更改漫画分镜的顺序，让故事发展下去，收费
+- [FRAMED 2](https://itunes.apple.com/cn/app/id1163105252) - 通过更改漫画分镜的顺序，让故事发展下去，收费
 
 ## 品质上佳的个人开发者作品
 
