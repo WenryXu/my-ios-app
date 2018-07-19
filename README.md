@@ -9,6 +9,11 @@
 - [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
 - [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
 - [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
+- [形色](https://itunes.apple.com/cn/app/id1018747351) - 拍照识花
+- [Day One](https://itunes.apple.com/cn/app/id1044867788) - 日记了解一下？
+- [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
+- [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 智能计算器 + 单位换算工具
+- [Google Tasks](https://itunes.apple.com/cn/app/id1353634006) - 极简待办事项
 
 ## 留着让孩子增加知识的 App
 
@@ -36,6 +41,15 @@
 - [迷失岛 2](https://itunes.apple.com/cn/app/id1320750997) - 解密逃脱类游戏，收费
 - [FRAMED](https://itunes.apple.com/cn/app/id886565180) - 通过更改漫画分镜的顺序，让故事发展下去，收费
 - [FRAMED 2](https://itunes.apple.com/cn/app/id1163105252) - 通过更改漫画分镜的顺序，让故事发展下去，收费
+- [浅塘](https://itunes.apple.com/cn/app/id1090426612) - 换了个画风的华容道
+- [交叉线!](https://itunes.apple.com/cn/app/id1279186893) - 益智游戏，拖动顶点，让线不交叉
+- [惊梦](https://itunes.apple.com/cn/app/id1011086561) - 国风颜色解密游戏
+- [花语月](https://itunes.apple.com/cn/app/id1008637459) - 唯美风格的解密游戏
+- [星空之壁](https://itunes.apple.com/cn/app/id1343127327) - 立体投影益智游戏
+- [Alto's Adventure](https://itunes.apple.com/cn/app/id950812012) - 画风唯美的跑酷游戏，收费
+- [阿尔托的奥德赛](https://itunes.apple.com/cn/app/id1182456409) - 画风唯美的跑酷游戏，收费
+- [迷径](https://itunes.apple.com/cn/app/id1222373324) - 路径不交叉
+- [Bring You Home](https://itunes.apple.com/cn/app/id1320681231) - 解密冒险游戏，在多种事件组合中找出正确的道路，收费
 
 ## 品质上佳的个人开发者作品
 
@@ -54,12 +68,18 @@
 - [微信读书](https://itunes.apple.com/cn/app/id952059546)
 - [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式的首页与「微信读书」有异曲同工之妙，但又各具特色
 - [ONE · 一个](https://itunes.apple.com/cn/app/id539190656) - 日推精选内容，包含多种内容形态
+- [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
 - [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是创意和颜值
 - [片刻](https://itunes.apple.com/cn/app/id791086961) - 一个社区
 - [日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
+- [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
+- 立知 - 腾讯版「即刻」
+- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 
 ## 其他推荐
 
 - [圈子](https://itunes.apple.com/cn/app/id1299590483) - 群组与社区，面向粉丝的专属主题社区
 - [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
 - [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
+- [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
+- [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
