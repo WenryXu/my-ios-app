@@ -14,6 +14,12 @@
 - [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
 - [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 智能计算器 + 单位换算工具
 - [Google Tasks](https://itunes.apple.com/cn/app/id1353634006) - 极简待办事项
+- Spotify - 欧美曲库极全，国内版权也不错
+- [Google 日历](https://itunes.apple.com/cn/app/id909319292) - 日历还是要用第三方
+- [Google 照片](https://itunes.apple.com/cn/app/id962194608) - 照片归档整理和储存
+- [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 结果最像扫描件的文件扫描 App
+- [Moke](https://itunes.apple.com/cn/app/id880813963) - 交互新奇但非常好用的第三方微博客户端
+- [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
 
 ## 留着让孩子增加知识的 App
 
