@@ -13,7 +13,7 @@
 - [Day One](https://itunes.apple.com/cn/app/id1044867788) - 日记了解一下？
 - [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
 - [Google 照片](https://itunes.apple.com/cn/app/id962194608) - 照片归档整理和储存
-- [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 扫描结果最像扫描件的文件扫描 App，印象笔记出品
+- [Scanbot](https://itunes.apple.com/cn/app/id834854351) - 扫描仪，支持保存为黑白件或彩色件
 - [Moke](https://itunes.apple.com/cn/app/id880813963) - 非常好用的第三方微博客户端
 - [Tweetbot 4 for Twitter](https://itunes.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
 - [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
