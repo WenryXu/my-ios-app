@@ -17,9 +17,15 @@
 - Spotify - 欧美曲库极全，国内版权也不错
 - [Google 日历](https://itunes.apple.com/cn/app/id909319292) - 日历还是要用第三方
 - [Google 照片](https://itunes.apple.com/cn/app/id962194608) - 照片归档整理和储存
-- [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 结果最像扫描件的文件扫描 App
-- [Moke](https://itunes.apple.com/cn/app/id880813963) - 交互新奇但非常好用的第三方微博客户端
+- [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 扫描结果最像扫描件的文件扫描 App，印象笔记出品
+- [Moke](https://itunes.apple.com/cn/app/id880813963) - 非常好用的第三方微博客户端
+- [Tweetbot 4 for Twitter](https://itunes.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
+- [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
+- [克拉壁纸](https://itunes.apple.com/cn/app/id1233738041) - 精选壁纸与壁纸制作
+- [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
 - [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
+- [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
+- [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
 
 ## 留着让孩子增加知识的 App
 
@@ -67,25 +73,19 @@
 - [Cuto](https://itunes.apple.com/cn/app/id1068086465) - 壁纸精选
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
+- [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
+- 后续 - 有记忆的新闻客户端，追踪有重大影响社会新闻的始末
+- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 
 ## 虽然不怎么用，但设计令我喜欢
 
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
-- [微信读书](https://itunes.apple.com/cn/app/id952059546)
-- [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式的首页与「微信读书」有异曲同工之妙，但又各具特色
+- [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式首页的读书 App
 - [ONE · 一个](https://itunes.apple.com/cn/app/id539190656) - 日推精选内容，包含多种内容形态
 - [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
-- [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是创意和颜值
+- [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是设计
 - [片刻](https://itunes.apple.com/cn/app/id791086961) - 一个社区
 - [日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
 - [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
-- 立知 - 腾讯版「即刻」
-- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
-
-## 其他推荐
-
+- 腾讯立知 - 腾讯版「即刻」
 - [圈子](https://itunes.apple.com/cn/app/id1299590483) - 群组与社区，面向粉丝的专属主题社区
-- [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
-- [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
-- [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
-- [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
