@@ -24,10 +24,20 @@
 - [克拉壁纸](https://itunes.apple.com/cn/app/id1233738041) - 精选壁纸与壁纸制作
 - [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
 - [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
-- [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
 - [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
+- [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
+- [OneScreen](https://itunes.apple.com/cn/app/id1355476695) - 带壳截屏，By DEHANG CHEN，收费
+- [小龟壳截屏](https://itunes.apple.com/cn/app/id1358168548) - 带壳截屏与截图美化,By Phoenix Tree Studio
+- [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
+- [Time 时间卡](https://itunes.apple.com/cn/app/id1347998487) - 「累计日」与「倒数日」，不支持农历
+- [Cuto](https://itunes.apple.com/cn/app/id1068086465) - 壁纸精选
+- [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
+- [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
+- [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
+- 后续 - 有记忆的新闻客户端，追踪有重大影响社会新闻的始末
+- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 
-## 留着让孩子增加知识的 App
+## 教育学习
 
 - [西江月](https://itunes.apple.com/cn/app/id1084924739) - 遇见传统诗词之美
 - [西窗烛](https://itunes.apple.com/cn/app/id912139104) - 品味中国诗词之美
@@ -35,7 +45,7 @@
 - [榫卯](https://itunes.apple.com/cn/app/id837964581) - 体验中国传统木工技艺，tag Design 出品
 - [折扇](https://itunes.apple.com/cn/app/id954221264) - 体验中国传统扇面艺术，tag Design 出品
 
-## 留着给孩子玩的游戏
+## 益智游戏
 
 - [纪念碑谷](https://itunes.apple.com/cn/app/id728293409) - 精妙的几何视错，收费
 - [纪念碑谷 2](https://itunes.apple.com/cn/app/id1238778050) - 精妙的几何视错，收费
@@ -63,21 +73,7 @@
 - [迷径](https://itunes.apple.com/cn/app/id1222373324) - 路径不交叉
 - [Bring You Home](https://itunes.apple.com/cn/app/id1320681231) - 解密冒险游戏，在多种事件组合中找出正确的道路，收费
 
-## 品质上佳的个人开发者作品
-
-- [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
-- [OneScreen](https://itunes.apple.com/cn/app/id1355476695) - 带壳截屏，By DEHANG CHEN，收费
-- [小龟壳截屏](https://itunes.apple.com/cn/app/id1358168548) - 带壳截屏与截图美化,By Phoenix Tree Studio
-- [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
-- [Time 时间卡](https://itunes.apple.com/cn/app/id1347998487) - 「累计日」与「倒数日」，不支持农历
-- [Cuto](https://itunes.apple.com/cn/app/id1068086465) - 壁纸精选
-- [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
-- [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
-- [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
-- 后续 - 有记忆的新闻客户端，追踪有重大影响社会新闻的始末
-- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
-
-## 虽然不怎么用，但设计令我喜欢
+## 设计参考
 
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
 - [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式首页的读书 App
@@ -89,3 +85,4 @@
 - [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
 - 腾讯立知 - 腾讯版「即刻」
 - [圈子](https://itunes.apple.com/cn/app/id1299590483) - 群组与社区，面向粉丝的专属主题社区
+- [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
