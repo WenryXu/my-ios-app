@@ -32,6 +32,15 @@
 - [Foodie](https://itunes.apple.com/cn/app/id1336411132) - 美食相机，让可口更可口
 - [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等
 - [照片扫描仪](https://itunes.apple.com/cn/app/id1165525994) - 数字化你的老照片
+- [Alook](https://itunes.apple.com/cn/app/id1261944766) - 超级简洁、符合国内用户使用习惯的浏览器，提供多种附加功能，收费
+- [ReadOn](https://itunes.apple.com/cn/app/id1212717344) - RSS 阅读器，遗憾的是只提供分源阅读，不提供混合源的文章流
+- [ProCam 5](https://itunes.apple.com/cn/app/id730712409) - 提供多种参数的手动调节，假装自己是个专业的摄影师，收费
+- [Annotable](https://itunes.apple.com/cn/app/id1099850421) - 图片标注工具，加字、画框、模糊等等不在话下
+- [Picsew](https://itunes.apple.com/cn/app/id1208145167) - 自动识别长图拼接，收费
+- [Swatches](https://itunes.apple.com/cn/app/id964993762) - 获取现实中的颜色
+- [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
+- [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
+- [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
 
 ## 教育学习
 
@@ -40,6 +49,7 @@
 - [烧杯](https://itunes.apple.com/cn/app/id961227503) - 在手机上做化学实验
 - [榫卯](https://itunes.apple.com/cn/app/id837964581) - 体验中国传统木工技艺，tag Design 出品
 - [折扇](https://itunes.apple.com/cn/app/id954221264) - 体验中国传统扇面艺术，tag Design 出品
+- [Photomath](https://itunes.apple.com/cn/app/id919087726) - 扫描算式直接进行计算，还有计算过程
 
 ## 益智游戏
 
