@@ -29,6 +29,9 @@
 - [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
 - 后续 - 有记忆的新闻客户端，追踪有重大影响社会新闻的始末
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
+- [Foodie](https://itunes.apple.com/cn/app/id1336411132) - 美食相机，让可口更可口
+- [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等
+- [照片扫描仪](https://itunes.apple.com/cn/app/id1165525994) - 数字化你的老照片
 
 ## 教育学习
 
@@ -79,3 +82,4 @@
 - 腾讯立知 - 腾讯版「即刻」
 - [圈子](https://itunes.apple.com/cn/app/id1299590483) - 群组与社区，面向粉丝的专属主题社区
 - [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
+- [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
