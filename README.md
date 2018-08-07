@@ -78,6 +78,7 @@
 - [阿尔托的奥德赛](https://itunes.apple.com/cn/app/id1182456409) - 画风唯美的跑酷游戏，收费
 - [迷径](https://itunes.apple.com/cn/app/id1222373324) - 路径不交叉
 - [Bring You Home](https://itunes.apple.com/cn/app/id1320681231) - 解密冒险游戏，在多种事件组合中找出正确的道路，收费
+- [Dotcraft.](https://itunes.apple.com/cn/app/id1370994578) - 滚动行和列，把小圆点放到规定的位置
 
 ## 设计参考
 
