@@ -35,7 +35,7 @@
 - [Alook](https://itunes.apple.com/cn/app/id1261944766) - 超级简洁、符合国内用户使用习惯的浏览器，提供多种附加功能，收费
 - [ReadOn](https://itunes.apple.com/cn/app/id1212717344) - RSS 阅读器，遗憾的是只提供分源阅读，不提供混合源的文章流
 - [ProCam 5](https://itunes.apple.com/cn/app/id730712409) - 提供多种参数的手动调节，假装自己是个专业的摄影师，收费
-- [Annotable](https://itunes.apple.com/cn/app/id1099850421) - 图片标注工具，加字、画框、模糊等等不在话下
+- [Pico](https://itunes.apple.com/cn/app/id1395700699) - 图片标注工具，加字、画框、模糊等等不在话下，收费
 - [Picsew](https://itunes.apple.com/cn/app/id1208145167) - 自动识别长图拼接，收费
 - [Swatches](https://itunes.apple.com/cn/app/id964993762) - 获取现实中的颜色
 - [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
