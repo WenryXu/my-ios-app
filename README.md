@@ -96,3 +96,4 @@
 - [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
 - [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
 - [雨时](https://itunes.apple.com/cn/app/id1059718989) - 一个设计简洁、文字为主的天气 App
+- [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
