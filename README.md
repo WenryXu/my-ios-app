@@ -51,6 +51,7 @@
 - [榫卯](https://itunes.apple.com/cn/app/id837964581) - 体验中国传统木工技艺，tag Design 出品
 - [折扇](https://itunes.apple.com/cn/app/id954221264) - 体验中国传统扇面艺术，tag Design 出品
 - [Photomath](https://itunes.apple.com/cn/app/id919087726) - 扫描算式直接进行计算，还有计算过程
+- [洪恩双语绘本](https://itunes.apple.com/cn/app/id1235986511) - 中英双语儿童绘本
 
 ## 益智游戏
 
