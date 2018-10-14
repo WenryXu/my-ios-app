@@ -8,6 +8,7 @@
 - [收趣](https://itunes.apple.com/cn/app/id1072254626) - 云收藏夹、云书签夹，可以理解为类似 Pocket 的稍后阅读工具
 - [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
 - [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
+- [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
 - [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
 - [形色](https://itunes.apple.com/cn/app/id1018747351) - 拍照识花
 - [Day One](https://itunes.apple.com/cn/app/id1044867788) - 日记了解一下？
@@ -30,7 +31,7 @@
 - 后续 - 有记忆的新闻客户端，追踪有重大影响社会新闻的始末
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 - [Foodie](https://itunes.apple.com/cn/app/id1336411132) - 美食相机，让可口更可口
-- [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等
+- [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等，但开启反应慢
 - [照片扫描仪](https://itunes.apple.com/cn/app/id1165525994) - 数字化你的老照片
 - [Alook](https://itunes.apple.com/cn/app/id1261944766) - 超级简洁、符合国内用户使用习惯的浏览器，提供多种附加功能，收费
 - [ReadOn](https://itunes.apple.com/cn/app/id1212717344) - RSS 阅读器，遗憾的是只提供分源阅读，不提供混合源的文章流
