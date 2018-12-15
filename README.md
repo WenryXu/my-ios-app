@@ -44,6 +44,7 @@
 - [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
 - Gitery - Github 第三方客户端，适合社交型 Github 用户
+- [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
 
 ## 教育学习
 
@@ -100,3 +101,5 @@
 - [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
 - [雨时](https://itunes.apple.com/cn/app/id1059718989) - 一个设计简洁、文字为主的天气 App
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
+- [Moon FM](https://itunes.apple.com/cn/app/id1243771413) - 泛用型播客客户端
+- [Agora 2](https://itunes.apple.com/cn/app/id1211813334) - 泛用型播客客户端
