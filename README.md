@@ -38,6 +38,7 @@
 - [ProCam 5](https://itunes.apple.com/cn/app/id730712409) - 提供多种参数的手动调节，假装自己是个专业的摄影师，收费
 - [Pico](https://itunes.apple.com/cn/app/id1395700699) - 图片标注工具，加字、画框、模糊等等不在话下，收费
 - [Picsew](https://itunes.apple.com/cn/app/id1208145167) - 自动识别长图拼接，收费
+- [Stiiitch](https://itunes.apple.com/cn/app/id1439758554) - 自动识别长图拼接，支持字幕拼接
 - [Swatches](https://itunes.apple.com/cn/app/id964993762) - 获取现实中的颜色
 - [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
 - [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
