@@ -19,22 +19,17 @@
 - [Tweetbot 4 for Twitter](https://itunes.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
 - [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
 - [克拉壁纸](https://itunes.apple.com/cn/app/id1233738041) - 精选壁纸与壁纸制作
-- [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
 - [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
 - [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
 - [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
-- [OneScreen](https://itunes.apple.com/cn/app/id1355476695) - 带壳截屏，By DEHANG CHEN，收费
 - [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 - [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
 - 后续 - 有记忆的新闻客户端，追踪有重大影响社会新闻的始末
-- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 - [Foodie](https://itunes.apple.com/cn/app/id1336411132) - 美食相机，让可口更可口
 - [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等，但开启反应慢
 - [照片扫描仪](https://itunes.apple.com/cn/app/id1165525994) - 数字化你的老照片
-- [Alook](https://itunes.apple.com/cn/app/id1261944766) - 超级简洁、符合国内用户使用习惯的浏览器，提供多种附加功能，收费
-- [ReadOn](https://itunes.apple.com/cn/app/id1212717344) - RSS 阅读器，遗憾的是只提供分源阅读，不提供混合源的文章流
 - [ProCam 5](https://itunes.apple.com/cn/app/id730712409) - 提供多种参数的手动调节，假装自己是个专业的摄影师，收费
 - [Pico](https://itunes.apple.com/cn/app/id1395700699) - 图片标注工具，加字、画框、模糊等等不在话下，收费
 - [Picsew](https://itunes.apple.com/cn/app/id1208145167) - 自动识别长图拼接，收费
@@ -43,8 +38,8 @@
 - [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
 - [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
-- Gitery - Github 第三方客户端，适合社交型 Github 用户
 - [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
+- [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
 
 ## 教育学习
 
@@ -94,12 +89,11 @@
 - [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是设计
 - [片刻](https://itunes.apple.com/cn/app/id791086961) - 一个社区
 - [日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
-- [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
 - 腾讯立知 - 腾讯版「即刻」
 - [圈子](https://itunes.apple.com/cn/app/id1299590483) - 群组与社区，面向粉丝的专属主题社区
 - [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
 - [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
 - [雨时](https://itunes.apple.com/cn/app/id1059718989) - 一个设计简洁、文字为主的天气 App
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
-- [Moon FM](https://itunes.apple.com/cn/app/id1243771413) - 泛用型播客客户端
-- [Agora 2](https://itunes.apple.com/cn/app/id1211813334) - 泛用型播客客户端
+- [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
+- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
