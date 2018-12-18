@@ -97,3 +97,4 @@
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
 - [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
+- [MOO音乐](https://itunes.apple.com/cn/app/id1434269952) - 探索型音乐播放器
