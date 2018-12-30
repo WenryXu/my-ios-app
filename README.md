@@ -40,6 +40,7 @@
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
 - [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
 - [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
+- [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
 
 ## 教育学习
 
