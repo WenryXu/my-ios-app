@@ -101,3 +101,5 @@
 - [MOO音乐](https://itunes.apple.com/cn/app/id1434269952) - 探索型音乐播放器
 - [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
 - [晓时](https://itunes.apple.com/cn/app/id1439971276) - 一款世界时钟
+- [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
+- [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
