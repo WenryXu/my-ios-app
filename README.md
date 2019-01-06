@@ -41,6 +41,7 @@
 - [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
 - [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
 - [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
+- [Photomyne](https://itunes.apple.com/cn/app/id1037784828) - 照片扫描仪
 
 ## 教育学习
 
