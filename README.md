@@ -89,7 +89,6 @@
 - [ONE · 一个](https://itunes.apple.com/cn/app/id539190656) - 日推精选内容，包含多种内容形态
 - [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
 - [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是设计
-- [片刻](https://itunes.apple.com/cn/app/id791086961) - 一个社区
 - [日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
 - 腾讯立知 - 腾讯版「即刻」
 - [圈子](https://itunes.apple.com/cn/app/id1299590483) - 群组与社区，面向粉丝的专属主题社区
