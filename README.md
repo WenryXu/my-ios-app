@@ -1,5 +1,7 @@
 # My iOS App
 
+⛔️ **停止更新** ⛔️
+
 ## 常用工具
 
 - [Google Authenticator](https://itunes.apple.com/cn/app/id388497605) - Google 出品的两步验证器
