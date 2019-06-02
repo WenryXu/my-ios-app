@@ -81,6 +81,17 @@
 - [迷径](https://itunes.apple.com/cn/app/id1222373324) - 路径不交叉
 - [Bring You Home](https://itunes.apple.com/cn/app/id1320681231) - 解密冒险游戏，在多种事件组合中找出正确的道路，收费
 - [Dotcraft.](https://itunes.apple.com/cn/app/id1370994578) - 滚动行和列，把小圆点放到规定的位置
+- [隐形守护者](https://itunes.apple.com/cn/app/id1459076631) - 作为中共地下党潜伏并寻求获胜机会，互动影像式澄光游戏，收费
+- [Plague 瘟疫公司](https://itunes.apple.com/cn/app/id525818839) - 创建你的病原体，感染并杀掉全世界的人，收费
+- [Rebel 反叛公司](https://itunes.apple.com/cn/app/id1439187947) - 军事策略模拟游戏，稳定区域、获得民心并驱逐叛军，收费
+- [见](https://itunes.apple.com/cn/app/id1454749693) - 体验盲人出行
+- [记忆重构](https://itunes.apple.com/cn/app/id1445971962) - 真人实拍互动式悬疑解密
+- [INSIDE](https://itunes.apple.com/cn/app/id1201642309) - 暗黑风格的探险游戏，收费
+- [OPUS：灵魂之桥](https://itunes.apple.com/cn/app/id1339119477) - 直击灵魂的末日探险游戏
+- [王权 Reigns](https://itunes.apple.com/cn/app/id1114127463) - 扮演国王，平衡和满足臣子、军队、人民、敌人的要求，管理你的国家，收费
+- [月圆之夜](https://itunes.apple.com/cn/app/id1278845241) - 卡牌游戏，小红帽的森林大冒险，收费
+- [∞无限循环](https://itunes.apple.com/cn/app/id977028266) - 把片段连接起来
+- [Zenge](https://itunes.apple.com/cn/app/id1068416637) - 顺着路径把积木放回原处，注意不要被其他积木块挡住去路，收费
 
 ## 设计参考
 
