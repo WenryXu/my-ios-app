@@ -120,3 +120,4 @@
 - [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
 - [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
 - [WeatherKit](https://itunes.apple.com/cn/app/id1076414499) - 精致简洁的天气 App
+- 周五日历 - 今天是周五吗？
