@@ -42,6 +42,8 @@
 - [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
 - [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
 - [Photomyne](https://itunes.apple.com/cn/app/id1037784828) - 照片扫描仪
+- [Things 3](https://itunes.apple.com/cn/app/id904237743) - 待办事项列表，收费
+- [小睡眠](https://itunes.apple.com/cn/app/id1194338569) - 冥想、助眠白噪声
 
 ## 教育学习
 
@@ -52,6 +54,7 @@
 - [折扇](https://itunes.apple.com/cn/app/id954221264) - 体验中国传统扇面艺术，tag Design 出品
 - [Photomath](https://itunes.apple.com/cn/app/id919087726) - 扫描算式直接进行计算，还有计算过程
 - [洪恩双语绘本](https://itunes.apple.com/cn/app/id1235986511) - 中英双语儿童绘本
+- [诗雨](https://itunes.apple.com/cn/app/id1193114042) - 会吟诗的天气 App
 
 ## 益智游戏
 
@@ -92,6 +95,7 @@
 - [月圆之夜](https://itunes.apple.com/cn/app/id1278845241) - 卡牌游戏，小红帽的森林大冒险，收费
 - [∞无限循环](https://itunes.apple.com/cn/app/id977028266) - 把片段连接起来
 - [Zenge](https://itunes.apple.com/cn/app/id1068416637) - 顺着路径把积木放回原处，注意不要被其他积木块挡住去路，收费
+- [异常](https://itunes.apple.com/cn/app/id1439153819) - AI 编程游戏，控制你的机器人打败敌人，收费
 
 ## 设计参考
 
@@ -114,3 +118,5 @@
 - [晓时](https://itunes.apple.com/cn/app/id1439971276) - 一款世界时钟
 - [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
 - [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
+- [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
+- [WeatherKit](https://itunes.apple.com/cn/app/id1076414499) - 精致简洁的天气 App
