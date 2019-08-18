@@ -18,6 +18,12 @@
 
 ## 健康健美
 
+- [AutoSleep](https://apps.apple.com/cn/app/id1164801111) - 通过 Apple Watch 监测睡眠情况
+- [休息一下](https://apps.apple.com/cn/app/id1467900504) - 定时提醒你休息一下，缓解疲劳
+- [潮汐](https://apps.apple.com/cn/app/id1077776989) - 睡眠、专注与冥想的白噪音番茄钟
+- [小睡眠](https://apps.apple.com/cn/app/id1194338569) - 冥想与助眠白噪音
+- [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
+
 ## 教育
 
 ## 旅游
@@ -30,6 +36,7 @@
 
 ## 生活
 
+- [Day One](https://itunes.apple.com/cn/app/id1044867788) - 日记了解一下？
 - [DayGram](https://apps.apple.com/cn/app/id977949232) - 一日一句，充满电子墨水质感的日记应用
 - [生辰](https://apps.apple.com/cn/app/id966489322) - 今天是你生命中的几点钟？
 
@@ -56,7 +63,15 @@
 - [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
 - [岛读 · 日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
 
+## 音乐
+
+- [Moon FM](https://apps.apple.com/cn/app/id1243771413) - 泛用型播客客户端
+- [猫耳FM](https://apps.apple.com/cn/app/id1148465254) - 收听有声广播剧
+- [MOO音乐](https://itunes.apple.com/cn/app/id1434269952) - 探索型音乐播放器
+
 ## 娱乐
+
+- [隐形守护者](https://itunes.apple.com/cn/app/id1459076631) - 作为中共地下党潜伏并寻求获胜机会，互动影像式澄光游戏，收费
 
 ## 休闲游戏
 
@@ -68,12 +83,10 @@
 
 - [Google Authenticator](https://itunes.apple.com/cn/app/id388497605) - Google 出品的两步验证器
 - [Microsoft Authenticator](https://itunes.apple.com/cn/app/id983156458) - 微软出品的两步验证器，Outlook 的两步验证只能用它
-- Surge - 网络调试工具，收费，很贵
 - [收趣](https://itunes.apple.com/cn/app/id1072254626) - 云收藏夹、云书签夹，可以理解为类似 Pocket 的稍后阅读工具
 - [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
 - [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
 - [形色](https://itunes.apple.com/cn/app/id1018747351) - 拍照识花
-- [Day One](https://itunes.apple.com/cn/app/id1044867788) - 日记了解一下？
 - [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
 - [Google 照片](https://itunes.apple.com/cn/app/id962194608) - 照片归档整理和储存
 - [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 文件扫描仪
@@ -83,7 +96,6 @@
 - [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
 - [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
 - [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
-
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 - [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
@@ -143,7 +155,6 @@
 - [迷径](https://itunes.apple.com/cn/app/id1222373324) - 路径不交叉
 - [Bring You Home](https://itunes.apple.com/cn/app/id1320681231) - 解密冒险游戏，在多种事件组合中找出正确的道路，收费
 - [Dotcraft.](https://itunes.apple.com/cn/app/id1370994578) - 滚动行和列，把小圆点放到规定的位置
-- [隐形守护者](https://itunes.apple.com/cn/app/id1459076631) - 作为中共地下党潜伏并寻求获胜机会，互动影像式澄光游戏，收费
 - [Plague 瘟疫公司](https://itunes.apple.com/cn/app/id525818839) - 创建你的病原体，感染并杀掉全世界的人，收费
 - [Rebel 反叛公司](https://itunes.apple.com/cn/app/id1439187947) - 军事策略模拟游戏，稳定区域、获得民心并驱逐叛军，收费
 - [见](https://itunes.apple.com/cn/app/id1454749693) - 体验盲人出行
@@ -159,16 +170,13 @@
 ## 设计参考
 
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
-
-
 - [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
 - [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
 - [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
-- [MOO音乐](https://itunes.apple.com/cn/app/id1434269952) - 探索型音乐播放器
-- [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
 
+- [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
 - [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
 - [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
 - [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
