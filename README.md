@@ -25,6 +25,7 @@
 
 ## 生活
 
+- [DayGram](https://apps.apple.com/cn/app/id977949232) - 一日一句，充满电子墨水质感的日记应用
 - [生辰](https://apps.apple.com/cn/app/id966489322) - 今天是你生命中的几点钟？
 
 ## 天气
@@ -42,9 +43,13 @@
 
 ## 效率
 
+- [Listify](https://apps.apple.com/cn/app/id1410668897) - 极简卡片设计的清单应用
+
 ## 新闻
 
 - [Unread](https://apps.apple.com/cn/app/id1252376153) - RSS 阅读器
+- [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
+- [岛读 · 日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
 
 ## 娱乐
 
@@ -149,8 +154,8 @@
 ## 设计参考
 
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
-- [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
-- [日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
+
+
 - [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
 - [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
