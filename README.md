@@ -4,18 +4,36 @@
 
 - [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
 - [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
+- [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
+- [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
 
 ## 参考
 
+- [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
+- [收趣](https://itunes.apple.com/cn/app/id1072254626) - 云收藏夹、云书签夹，可以理解为类似 Pocket 的稍后阅读工具
 - [捷径社区](https://apps.apple.com/cn/app/id1440424713) - 发现和分享快捷指令
 - [什么垃圾](https://apps.apple.com/cn/app/id1470569000) - 垃圾分类指南
+- [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
+- [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
 - [不忘词典](https://apps.apple.com/cn/app/id1453514210) - 利用遗忘曲线帮你记单词的电子词典
 - [2019 字体日历](https://apps.apple.com/cn/app/id1446449483) - 通过日历的方式每天价绍一款字体
 
 ## 工具
 
+- [Notion](https://apps.apple.com/cn/app/id1232780281) - 模块化笔记工具
+- [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
+- [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
+- [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
+- [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
+- [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
+- [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
+- [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
 - [晓时](https://itunes.apple.com/cn/app/id1439971276) - 一款世界时钟
 - [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
+- [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
+- [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
+- [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
+- [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等，但开启反应慢
 
 ## 健康健美
 
@@ -23,15 +41,40 @@
 - [休息一下](https://apps.apple.com/cn/app/id1467900504) - 定时提醒你休息一下，缓解疲劳
 - [潮汐](https://apps.apple.com/cn/app/id1077776989) - 睡眠、专注与冥想的白噪音番茄钟
 - [小睡眠](https://itunes.apple.com/cn/app/id1194338569) - 冥想、助眠白噪声
+- [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
 - [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
 
 ## 教育
 
+- [50音起源·白](https://apps.apple.com/cn/app/id1455399728) - 零基础日语入门
+- [Peak 智客](https://apps.apple.com/cn/app/id806223188) - 脑力训练
+- [Memorado](https://apps.apple.com/cn/app/id897062509) - 游戏化大脑训练，提升各种能力
+- [化学家](https://apps.apple.com/cn/app/id440666387) - 化学实验室
+- [烧杯](https://itunes.apple.com/cn/app/id961227503) - 在手机上做化学实验
+- [微观](https://apps.apple.com/cn/app/id1458231552) - 观察细菌、病毒、真菌和细胞的繁衍、竞争、变异和进化
+- [西江月](https://itunes.apple.com/cn/app/id1084924739) - 遇见传统诗词之美
+- [西窗烛](https://itunes.apple.com/cn/app/id912139104) - 品味中国诗词之美
+- [诗词之美](https://apps.apple.com/cn/app/id1206731177) - 无社交版「西窗烛」
+- [榫卯](https://itunes.apple.com/cn/app/id837964581) - 体验中国传统木工技艺，tag Design 出品
+- [折扇](https://itunes.apple.com/cn/app/id954221264) - 体验中国传统扇面艺术，tag Design 出品
+- [卜石](https://apps.apple.com/cn/app/id954221709) - 体验中国的玉文化
+- [全历史](https://apps.apple.com/cn/app/id1387152606) - 用时间轴的形式展现历史
+- [Photomath](https://itunes.apple.com/cn/app/id919087726) - 扫描算式直接进行计算，还有计算过程
+- [洪恩双语绘本](https://itunes.apple.com/cn/app/id1235986511) - 中英双语儿童绘本
+- [紫禁城600](https://apps.apple.com/cn/app/id1435759076) - 在手机上游览整个紫禁城
+- [华夏万象](https://apps.apple.com/cn/app/id1471797248) - 介绍中国各省份历史、地理、文化
+- [写字先生](https://apps.apple.com/cn/app/id763231885) - 临摹书法
+
 ## 旅游
 
 - [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
+- [形色](https://itunes.apple.com/cn/app/id1018747351) - 拍照识花
 
 ## 商务
+
+- [Google Authenticator](https://itunes.apple.com/cn/app/id388497605) - Google 出品的两步验证器
+- [Microsoft Authenticator](https://itunes.apple.com/cn/app/id983156458) - 微软出品的两步验证器，Outlook 的两步验证只能用它
+- [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 文件扫描仪
 
 ## 社交
 
@@ -58,6 +101,9 @@
 - [照片扫描仪](https://itunes.apple.com/cn/app/id1165525994) - 数字化你的老照片
 - [復得](https://itunes.apple.com/cn/app/id1037784828) - 照片扫描仪
 - [ProCam 6](https://apps.apple.com/cn/app/id730712409) - 提供多种参数的手动调节，假装自己是个专业的摄影师，收费
+- [Swatches](https://itunes.apple.com/cn/app/id964993762) - 获取现实中的颜色
+- [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
+- [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
 
 ## 生活
 
@@ -80,7 +126,11 @@
 
 ## 效率
 
+- [Notability](https://apps.apple.com/cn/app/id360593530) - 手写笔记与 PDF 标注应用
+- [Things 3](https://itunes.apple.com/cn/app/id904237743) - 待办事项列表，收费
+- [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
 - [Listify](https://apps.apple.com/cn/app/id1410668897) - 极简卡片设计的清单应用
+- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 
 ## 新闻
 
@@ -149,48 +199,3 @@
 ## 编程游戏
 
 - [异常](https://itunes.apple.com/cn/app/id1439153819) - AI 编程游戏，控制你的机器人打败敌人，收费
-
-## 常用工具
-
-- [Google Authenticator](https://itunes.apple.com/cn/app/id388497605) - Google 出品的两步验证器
-- [Microsoft Authenticator](https://itunes.apple.com/cn/app/id983156458) - 微软出品的两步验证器，Outlook 的两步验证只能用它
-- [收趣](https://itunes.apple.com/cn/app/id1072254626) - 云收藏夹、云书签夹，可以理解为类似 Pocket 的稍后阅读工具
-- [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
-- [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
-- [形色](https://itunes.apple.com/cn/app/id1018747351) - 拍照识花
-- [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
-- [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 文件扫描仪
-- [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
-- [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
-- [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
-- [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
-- [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等，但开启反应慢
-- [Swatches](https://itunes.apple.com/cn/app/id964993762) - 获取现实中的颜色
-- [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
-- [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
-- [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
-- [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
-- [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
-- [Things 3](https://itunes.apple.com/cn/app/id904237743) - 待办事项列表，收费
-
-## 教育学习
-
-- [西江月](https://itunes.apple.com/cn/app/id1084924739) - 遇见传统诗词之美
-- [西窗烛](https://itunes.apple.com/cn/app/id912139104) - 品味中国诗词之美
-- [烧杯](https://itunes.apple.com/cn/app/id961227503) - 在手机上做化学实验
-- [榫卯](https://itunes.apple.com/cn/app/id837964581) - 体验中国传统木工技艺，tag Design 出品
-- [折扇](https://itunes.apple.com/cn/app/id954221264) - 体验中国传统扇面艺术，tag Design 出品
-- [Photomath](https://itunes.apple.com/cn/app/id919087726) - 扫描算式直接进行计算，还有计算过程
-- [洪恩双语绘本](https://itunes.apple.com/cn/app/id1235986511) - 中英双语儿童绘本
-
-## 设计参考
-
-- [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
-- [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
-- [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
-- [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
-- [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
-- [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
-- [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
-- [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
-- 周五日历 - 今天是周五吗？
