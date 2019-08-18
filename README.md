@@ -7,6 +7,7 @@
 
 ## 参考
 
+- [捷径社区](https://apps.apple.com/cn/app/id1440424713) - 发现和分享快捷指令
 - [什么垃圾](https://apps.apple.com/cn/app/id1470569000) - 垃圾分类指南
 - [不忘词典](https://apps.apple.com/cn/app/id1453514210) - 利用遗忘曲线帮你记单词的电子词典
 - [2019 字体日历](https://apps.apple.com/cn/app/id1446449483) - 通过日历的方式每天价绍一款字体
@@ -21,7 +22,7 @@
 - [AutoSleep](https://apps.apple.com/cn/app/id1164801111) - 通过 Apple Watch 监测睡眠情况
 - [休息一下](https://apps.apple.com/cn/app/id1467900504) - 定时提醒你休息一下，缓解疲劳
 - [潮汐](https://apps.apple.com/cn/app/id1077776989) - 睡眠、专注与冥想的白噪音番茄钟
-- [小睡眠](https://apps.apple.com/cn/app/id1194338569) - 冥想与助眠白噪音
+- [小睡眠](https://itunes.apple.com/cn/app/id1194338569) - 冥想、助眠白噪声
 - [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
 
 ## 教育
@@ -32,7 +33,31 @@
 
 ## 商务
 
+## 社交
+
+- [Moke](https://itunes.apple.com/cn/app/id880813963) - 非常好用的第三方微博客户端
+- [Tweetbot 5 for Twitter](https://apps.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
+- [Dcard](https://apps.apple.com/cn/app/id951353454) - 台湾匿名社区
+
 ## 摄影与录像
+
+- [Google 相册](https://itunes.apple.com/cn/app/id962194608) - 照片归档整理和储存
+- [Pico](https://itunes.apple.com/cn/app/id1395700699) - 图片标注工具，加字、画框、模糊等等不在话下，收费
+- [Picsew](https://itunes.apple.com/cn/app/id1208145167) - 自动识别长图拼接，收费
+- [速拼](https://itunes.apple.com/cn/app/id1439758554) - 自动识别长图拼接，支持字幕拼接
+- [Tailor](https://apps.apple.com/cn/app/id926653095) - 长图拼接
+- [克拉壁纸](https://itunes.apple.com/cn/app/id1233738041) - 精选壁纸与壁纸制作
+- [马卡龙玩图](https://apps.apple.com/cn/app/id1214783848) - 一秒抠图，P 图神器
+- [方块小子](https://apps.apple.com/cn/app/id1470567584) - 正方形留白照片编辑器
+- [Foodie](https://itunes.apple.com/cn/app/id1336411132) - 美食相机，让可口更可口
+- [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
+- [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
+- [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
+- [PICNIC](https://apps.apple.com/cn/app/id1236058595) - 一键为照片变换天气
+- [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
+- [照片扫描仪](https://itunes.apple.com/cn/app/id1165525994) - 数字化你的老照片
+- [復得](https://itunes.apple.com/cn/app/id1037784828) - 照片扫描仪
+- [ProCam 6](https://apps.apple.com/cn/app/id730712409) - 提供多种参数的手动调节，假装自己是个专业的摄影师，收费
 
 ## 生活
 
@@ -88,34 +113,19 @@
 - [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
 - [形色](https://itunes.apple.com/cn/app/id1018747351) - 拍照识花
 - [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
-- [Google 照片](https://itunes.apple.com/cn/app/id962194608) - 照片归档整理和储存
 - [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 文件扫描仪
-- [Moke](https://itunes.apple.com/cn/app/id880813963) - 非常好用的第三方微博客户端
-- [Tweetbot 4 for Twitter](https://itunes.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
-- [克拉壁纸](https://itunes.apple.com/cn/app/id1233738041) - 精选壁纸与壁纸制作
-- [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
-- [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
 - [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 - [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
-- 后续 - 有记忆的新闻客户端，追踪有重大影响社会新闻的始末
-- [Foodie](https://itunes.apple.com/cn/app/id1336411132) - 美食相机，让可口更可口
 - [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等，但开启反应慢
-- [照片扫描仪](https://itunes.apple.com/cn/app/id1165525994) - 数字化你的老照片
-- [ProCam 5](https://itunes.apple.com/cn/app/id730712409) - 提供多种参数的手动调节，假装自己是个专业的摄影师，收费
-- [Pico](https://itunes.apple.com/cn/app/id1395700699) - 图片标注工具，加字、画框、模糊等等不在话下，收费
-- [Picsew](https://itunes.apple.com/cn/app/id1208145167) - 自动识别长图拼接，收费
-- [Stiiitch](https://itunes.apple.com/cn/app/id1439758554) - 自动识别长图拼接，支持字幕拼接
 - [Swatches](https://itunes.apple.com/cn/app/id964993762) - 获取现实中的颜色
 - [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
 - [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
 - [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
 - [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
-- [Photomyne](https://itunes.apple.com/cn/app/id1037784828) - 照片扫描仪
 - [Things 3](https://itunes.apple.com/cn/app/id904237743) - 待办事项列表，收费
-- [小睡眠](https://itunes.apple.com/cn/app/id1194338569) - 冥想、助眠白噪声
 
 ## 教育学习
 
@@ -170,12 +180,9 @@
 ## 设计参考
 
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
-- [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
-- [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
 - [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
-
 - [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
 - [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
 - [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
