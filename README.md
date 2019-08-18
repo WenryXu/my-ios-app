@@ -22,6 +22,7 @@
 
 - [Notion](https://apps.apple.com/cn/app/id1232780281) - 模块化笔记工具
 - [倒数日 Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
+- [PutApp](https://apps.apple.com/cn/app/id1456379965) - 应用分类整理工具
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
@@ -34,6 +35,7 @@
 - [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
 - [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
 - [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等，但开启反应慢
+- [小历](https://apps.apple.com/cn/app/id1031088612) - 日历
 
 ## 健康健美
 
@@ -129,6 +131,7 @@
 - [Notability](https://apps.apple.com/cn/app/id360593530) - 手写笔记与 PDF 标注应用
 - [Things 3](https://itunes.apple.com/cn/app/id904237743) - 待办事项列表，收费
 - [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
+- [水滴清单](https://apps.apple.com/cn/app/id1173405219) - 用语音创建待办事项
 - [Listify](https://apps.apple.com/cn/app/id1410668897) - 极简卡片设计的清单应用
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 
