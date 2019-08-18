@@ -21,7 +21,7 @@
 ## 工具
 
 - [Notion](https://apps.apple.com/cn/app/id1232780281) - 模块化笔记工具
-- [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
+- [倒数日 Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
