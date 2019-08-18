@@ -7,9 +7,14 @@
 
 ## 参考
 
+- [什么垃圾](https://apps.apple.com/cn/app/id1470569000) - 垃圾分类指南
+- [不忘词典](https://apps.apple.com/cn/app/id1453514210) - 利用遗忘曲线帮你记单词的电子词典
 - [2019 字体日历](https://apps.apple.com/cn/app/id1446449483) - 通过日历的方式每天价绍一款字体
 
 ## 工具
+
+- [晓时](https://itunes.apple.com/cn/app/id1439971276) - 一款世界时钟
+- [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
 
 ## 健康健美
 
@@ -78,7 +83,7 @@
 - [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
 - [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
 - [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
-- [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
+
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 - [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
@@ -163,7 +168,7 @@
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 - [MOO音乐](https://itunes.apple.com/cn/app/id1434269952) - 探索型音乐播放器
 - [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
-- [晓时](https://itunes.apple.com/cn/app/id1439971276) - 一款世界时钟
+
 - [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
 - [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
 - [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
