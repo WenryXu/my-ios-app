@@ -100,9 +100,55 @@
 
 ## 休闲游戏
 
+- [Alto's Adventure](https://itunes.apple.com/cn/app/id950812012) - 画风唯美的跑酷游戏，收费
+- [阿尔托的奥德赛](https://itunes.apple.com/cn/app/id1182456409) - 画风唯美的跑酷游戏，收费
+- [月圆之夜](https://itunes.apple.com/cn/app/id1278845241) - 卡牌游戏，小红帽的森林大冒险，收费
+- [光·遇](https://apps.apple.com/cn/app/id1344733855) - 在广阔的游戏世界中达成心流的体验
+- [OPUS：灵魂之桥](https://itunes.apple.com/cn/app/id1339119477) - 直击灵魂的末日探险游戏
+- [见](https://itunes.apple.com/cn/app/id1454749693) - 体验盲人出行
+
 ## 益智解谜游戏
 
+- [纪念碑谷](https://itunes.apple.com/cn/app/id728293409) - 精妙的几何视错，收费
+- [纪念碑谷 2](https://itunes.apple.com/cn/app/id1238778050) - 精妙的几何视错，收费
+- [shadowmatic](https://itunes.apple.com/cn/app/id775888026) - 找出能过关的物体投影，收费
+- [-look-](https://itunes.apple.com/cn/app/id1310308475) - 找出堆积的方块的三视图，收费
+- [Tsuro 通路](https://itunes.apple.com/cn/app/id957124541) - 在棋盘上画出道路，将对方引出棋盘，收费
+- [\_-\_](https://itunes.apple.com/cn/app/id1315674869) - 将互有关联的几条短线放在一条线上
+- [兵者](https://itunes.apple.com/cn/app/id1190509527) - 用象棋的规则解决象棋中不可能存在的谜题
+- [ston](https://itunes.apple.com/cn/app/id1238293204) - 可玩度超高的变体「一笔画」游戏
+- [MONO](https://itunes.apple.com/cn/app/id1347798584) - 关于色彩和连接的益智游戏，将颜色拖动到网格中，让网格连接成同一种颜色
+- [点线交织](https://itunes.apple.com/cn/app/id1247895794) - 在一个绕着线的钉板上，不交叉地将线从一个形状绕成另一个形状
+- [墙壁和球](https://itunes.apple.com/cn/app/id1083708143) - 凭空创造墙壁，将球弹进黑洞去
+- [迷失岛](https://itunes.apple.com/cn/app/id1134805859) - 解密逃脱类游戏，收费
+- [迷失岛 2](https://itunes.apple.com/cn/app/id1320750997) - 解密逃脱类游戏，收费
+- [FRAMED](https://itunes.apple.com/cn/app/id886565180) - 通过更改漫画分镜的顺序，让故事发展下去，收费
+- [FRAMED 2](https://itunes.apple.com/cn/app/id1163105252) - 通过更改漫画分镜的顺序，让故事发展下去，收费
+- [浅塘](https://itunes.apple.com/cn/app/id1090426612) - 换了个画风的华容道
+- [交叉线!](https://itunes.apple.com/cn/app/id1279186893) - 益智游戏，拖动顶点，让线不交叉
+- [惊梦](https://itunes.apple.com/cn/app/id1011086561) - 国风颜色解密游戏
+- [花语月](https://itunes.apple.com/cn/app/id1008637459) - 唯美风格的解密游戏
+- [星空之壁](https://itunes.apple.com/cn/app/id1343127327) - 立体投影益智游戏
+- [Hexio](https://itunes.apple.com/cn/app/id1338697670) - 消除 + 俄罗斯方块，将颜色相同、形状不同的方块拼接成需要的形状并消除
+- [迷径](https://itunes.apple.com/cn/app/id1222373324) - 路径不交叉
+- [Bring You Home](https://itunes.apple.com/cn/app/id1320681231) - 解密冒险游戏，在多种事件组合中找出正确的道路，收费
+- [Dotcraft.](https://itunes.apple.com/cn/app/id1370994578) - 滚动行和列，把小圆点放到规定的位置
+- [Zenge](https://itunes.apple.com/cn/app/id1068416637) - 顺着路径把积木放回原处，注意不要被其他积木块挡住去路，收费
+- [∞无限循环](https://itunes.apple.com/cn/app/id977028266) - 把片段连接起来
+- [Plague 瘟疫公司](https://itunes.apple.com/cn/app/id525818839) - 创建你的病原体，感染并杀掉全世界的人，收费
+- [Rebel 反叛公司](https://itunes.apple.com/cn/app/id1439187947) - 军事策略模拟游戏，稳定区域、获得民心并驱逐叛军，收费
+- [记忆重构](https://itunes.apple.com/cn/app/id1445971962) - 真人实拍互动式悬疑解密
+- [INSIDE](https://itunes.apple.com/cn/app/id1201642309) - 暗黑风格的探险游戏，收费
+- [王权 Reigns](https://itunes.apple.com/cn/app/id1114127463) - 扮演国王，平衡和满足臣子、军队、人民、敌人的要求，管理你的国家，收费
+- [.projekt](https://apps.apple.com/cn/app/id1244456273) - 根据三视图拼出立体图形，收费
+- [异星之路](https://apps.apple.com/cn/app/id983507557) - 规划路径，击败入侵者
+- [计算器 2：游戏](https://apps.apple.com/cn/app/id1436348748) - 关于数学运算的游戏
+- [SARKWO](https://apps.apple.com/cn/app/id1462867280) - 沿着路径将圆点移动到目标位置
+- [极光之路](https://apps.apple.com/cn/app/id1445523670) - 光的反射
+
 ## 编程游戏
+
+- [异常](https://itunes.apple.com/cn/app/id1439153819) - AI 编程游戏，控制你的机器人打败敌人，收费
 
 ## 常用工具
 
@@ -136,46 +182,6 @@
 - [折扇](https://itunes.apple.com/cn/app/id954221264) - 体验中国传统扇面艺术，tag Design 出品
 - [Photomath](https://itunes.apple.com/cn/app/id919087726) - 扫描算式直接进行计算，还有计算过程
 - [洪恩双语绘本](https://itunes.apple.com/cn/app/id1235986511) - 中英双语儿童绘本
-
-## 益智游戏
-
-- [纪念碑谷](https://itunes.apple.com/cn/app/id728293409) - 精妙的几何视错，收费
-- [纪念碑谷 2](https://itunes.apple.com/cn/app/id1238778050) - 精妙的几何视错，收费
-- [shadowmatic](https://itunes.apple.com/cn/app/id775888026) - 找出能过关的物体投影，收费
-- [-look-](https://itunes.apple.com/cn/app/id1310308475) - 找出堆积的方块的三视图，收费
-- [Tsuro 通路](https://itunes.apple.com/cn/app/id957124541) - 在棋盘上画出道路，将对方引出棋盘，收费
-- [\_-\_](https://itunes.apple.com/cn/app/id1315674869) - 将互有关联的几条短线放在一条线上
-- [兵者](https://itunes.apple.com/cn/app/id1190509527) - 用象棋的规则解决象棋中不可能存在的谜题
-- [ston](https://itunes.apple.com/cn/app/id1238293204) - 可玩度超高的变体「一笔画」游戏
-- [MONO](https://itunes.apple.com/cn/app/id1347798584) - 关于色彩和连接的益智游戏，将颜色拖动到网格中，让网格连接成同一种颜色
-- [墙壁和球](https://itunes.apple.com/cn/app/id1083708143) - 凭空创造墙壁，将球弹进黑洞去
-- [点线交织](https://itunes.apple.com/cn/app/id1247895794) - 在一个绕着线的钉板上，不交叉地将线从一个形状绕成另一个形状
-- [Hexio](https://itunes.apple.com/cn/app/id1338697670) - 消除 + 俄罗斯方块，将颜色相同、形状不同的方块拼接成需要的形状并消除
-- [迷失岛](https://itunes.apple.com/cn/app/id1134805859) - 解密逃脱类游戏，收费
-- [迷失岛 2](https://itunes.apple.com/cn/app/id1320750997) - 解密逃脱类游戏，收费
-- [FRAMED](https://itunes.apple.com/cn/app/id886565180) - 通过更改漫画分镜的顺序，让故事发展下去，收费
-- [FRAMED 2](https://itunes.apple.com/cn/app/id1163105252) - 通过更改漫画分镜的顺序，让故事发展下去，收费
-- [浅塘](https://itunes.apple.com/cn/app/id1090426612) - 换了个画风的华容道
-- [交叉线!](https://itunes.apple.com/cn/app/id1279186893) - 益智游戏，拖动顶点，让线不交叉
-- [惊梦](https://itunes.apple.com/cn/app/id1011086561) - 国风颜色解密游戏
-- [花语月](https://itunes.apple.com/cn/app/id1008637459) - 唯美风格的解密游戏
-- [星空之壁](https://itunes.apple.com/cn/app/id1343127327) - 立体投影益智游戏
-- [Alto's Adventure](https://itunes.apple.com/cn/app/id950812012) - 画风唯美的跑酷游戏，收费
-- [阿尔托的奥德赛](https://itunes.apple.com/cn/app/id1182456409) - 画风唯美的跑酷游戏，收费
-- [迷径](https://itunes.apple.com/cn/app/id1222373324) - 路径不交叉
-- [Bring You Home](https://itunes.apple.com/cn/app/id1320681231) - 解密冒险游戏，在多种事件组合中找出正确的道路，收费
-- [Dotcraft.](https://itunes.apple.com/cn/app/id1370994578) - 滚动行和列，把小圆点放到规定的位置
-- [Plague 瘟疫公司](https://itunes.apple.com/cn/app/id525818839) - 创建你的病原体，感染并杀掉全世界的人，收费
-- [Rebel 反叛公司](https://itunes.apple.com/cn/app/id1439187947) - 军事策略模拟游戏，稳定区域、获得民心并驱逐叛军，收费
-- [见](https://itunes.apple.com/cn/app/id1454749693) - 体验盲人出行
-- [记忆重构](https://itunes.apple.com/cn/app/id1445971962) - 真人实拍互动式悬疑解密
-- [INSIDE](https://itunes.apple.com/cn/app/id1201642309) - 暗黑风格的探险游戏，收费
-- [OPUS：灵魂之桥](https://itunes.apple.com/cn/app/id1339119477) - 直击灵魂的末日探险游戏
-- [王权 Reigns](https://itunes.apple.com/cn/app/id1114127463) - 扮演国王，平衡和满足臣子、军队、人民、敌人的要求，管理你的国家，收费
-- [月圆之夜](https://itunes.apple.com/cn/app/id1278845241) - 卡牌游戏，小红帽的森林大冒险，收费
-- [∞无限循环](https://itunes.apple.com/cn/app/id977028266) - 把片段连接起来
-- [Zenge](https://itunes.apple.com/cn/app/id1068416637) - 顺着路径把积木放回原处，注意不要被其他积木块挡住去路，收费
-- [异常](https://itunes.apple.com/cn/app/id1439153819) - AI 编程游戏，控制你的机器人打败敌人，收费
 
 ## 设计参考
 
