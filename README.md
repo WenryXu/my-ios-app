@@ -25,6 +25,8 @@
 
 ## 生活
 
+- [生辰](https://apps.apple.com/cn/app/id966489322) - 今天是你生命中的几点钟？
+
 ## 天气
 
 - [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是设计
