@@ -20,6 +20,7 @@
 
 ## 工具
 
+- [Calzy 3](https://apps.apple.com/cn/app/id623690732) - 计算器，可以暂存多个结果
 - [Notion](https://apps.apple.com/cn/app/id1232780281) - 模块化笔记工具
 - [倒数日 Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
 - [PutApp](https://apps.apple.com/cn/app/id1456379965) - 应用分类整理工具
@@ -36,6 +37,14 @@
 - [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
 - [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等，但开启反应慢
 - [小历](https://apps.apple.com/cn/app/id1031088612) - 日历
+- [须臾](https://apps.apple.com/cn/app/id1384089839) - 基于一万小时定律的项目时间计时器
+- [兰亭日志](https://apps.apple.com/cn/app/id1439424286) - 模块化日记本
+- [小日常](https://apps.apple.com/cn/app/id1263789061) - 习惯管理与追踪
+- [Snapin](https://apps.apple.com/cn/app/id1457539779) - 截图即笔记
+- [有数](https://apps.apple.com/cn/app/id721606556) - 重新定义计算器
+- [花样文字](https://apps.apple.com/cn/app/id1438854446) - 特殊的文字效果
+- [一炷香](https://apps.apple.com/cn/app/id1033781459) - 古风冥想与白噪音
+- [小时刻](https://apps.apple.com/cn/app/id1435733820) - 事件计时器
 
 ## 健康健美
 
@@ -106,12 +115,14 @@
 - [Swatches](https://itunes.apple.com/cn/app/id964993762) - 获取现实中的颜色
 - [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
 - [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
+- [相册管家](https://apps.apple.com/cn/app/id1454907835) - 一键删除多个相册和图片
 
 ## 生活
 
 - [Day One](https://itunes.apple.com/cn/app/id1044867788) - 日记了解一下？
 - [DayGram](https://apps.apple.com/cn/app/id977949232) - 一日一句，充满电子墨水质感的日记应用
 - [生辰](https://apps.apple.com/cn/app/id966489322) - 今天是你生命中的几点钟？
+- [剩余电量](https://apps.apple.com/cn/app/id1460654057) - 查看生命的剩余电量
 
 ## 天气
 
@@ -132,6 +143,7 @@
 - [Things 3](https://itunes.apple.com/cn/app/id904237743) - 待办事项列表，收费
 - [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
 - [水滴清单](https://apps.apple.com/cn/app/id1173405219) - 用语音创建待办事项
+- [喵记](https://apps.apple.com/cn/app/id1413040586) - 快速记录想法、照片和创建待办清单
 - [Listify](https://apps.apple.com/cn/app/id1410668897) - 极简卡片设计的清单应用
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 
