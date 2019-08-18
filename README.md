@@ -1,5 +1,57 @@
 # My iOS App
 
+## 财务
+
+- [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
+- [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
+
+## 参考
+
+- [2019 字体日历](https://apps.apple.com/cn/app/id1446449483) - 通过日历的方式每天价绍一款字体
+
+## 工具
+
+## 健康健美
+
+## 教育
+
+## 旅游
+
+- [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
+
+## 商务
+
+## 摄影与录像
+
+## 生活
+
+## 天气
+
+- [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是设计
+- [诗雨](https://itunes.apple.com/cn/app/id1193114042) - 会吟诗的天气 App
+- [雨时](https://itunes.apple.com/cn/app/id1059718989) - 一个设计简洁、文字为主的天气 App
+- [WeatherKit](https://itunes.apple.com/cn/app/id1076414499) - 精致简洁的天气 App
+
+## 图书
+
+- [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
+- [ONE · 一个](https://itunes.apple.com/cn/app/id539190656) - 日推精选内容，包含多种内容形态
+- [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式首页的读书 App
+
+## 效率
+
+## 新闻
+
+- [Unread](https://apps.apple.com/cn/app/id1252376153) - RSS 阅读器
+
+## 娱乐
+
+## 休闲游戏
+
+## 益智解谜游戏
+
+## 编程游戏
+
 ## 常用工具
 
 - [Google Authenticator](https://itunes.apple.com/cn/app/id388497605) - Google 出品的两步验证器
@@ -7,9 +59,7 @@
 - Surge - 网络调试工具，收费，很贵
 - [收趣](https://itunes.apple.com/cn/app/id1072254626) - 云收藏夹、云书签夹，可以理解为类似 Pocket 的稍后阅读工具
 - [Days Matter Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
-- [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
 - [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
-- [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
 - [形色](https://itunes.apple.com/cn/app/id1018747351) - 拍照识花
 - [Day One](https://itunes.apple.com/cn/app/id1044867788) - 日记了解一下？
 - [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
@@ -17,7 +67,6 @@
 - [扫描宝](https://itunes.apple.com/cn/app/id883338188) - 文件扫描仪
 - [Moke](https://itunes.apple.com/cn/app/id880813963) - 非常好用的第三方微博客户端
 - [Tweetbot 4 for Twitter](https://itunes.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
-- [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
 - [克拉壁纸](https://itunes.apple.com/cn/app/id1233738041) - 精选壁纸与壁纸制作
 - [无他相机](https://itunes.apple.com/cn/app/id1061534032) - 拍人确实好看
 - [PINS](https://itunes.apple.com/cn/app/id1256992655) - 多种布局、背景和滤镜的拼图 App
@@ -39,7 +88,6 @@
 - [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
 - [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
-- [片场](https://itunes.apple.com/cn/app/id1145200225) - 跟着电影去旅行
 - [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
 - [Photomyne](https://itunes.apple.com/cn/app/id1037784828) - 照片扫描仪
 - [Things 3](https://itunes.apple.com/cn/app/id904237743) - 待办事项列表，收费
@@ -54,7 +102,6 @@
 - [折扇](https://itunes.apple.com/cn/app/id954221264) - 体验中国传统扇面艺术，tag Design 出品
 - [Photomath](https://itunes.apple.com/cn/app/id919087726) - 扫描算式直接进行计算，还有计算过程
 - [洪恩双语绘本](https://itunes.apple.com/cn/app/id1235986511) - 中英双语儿童绘本
-- [诗雨](https://itunes.apple.com/cn/app/id1193114042) - 会吟诗的天气 App
 
 ## 益智游戏
 
@@ -100,16 +147,10 @@
 ## 设计参考
 
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
-- [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式首页的读书 App
-- [ONE · 一个](https://itunes.apple.com/cn/app/id539190656) - 日推精选内容，包含多种内容形态
 - [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
-- [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是设计
 - [日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
-- 腾讯立知 - 腾讯版「即刻」
-- [圈子](https://itunes.apple.com/cn/app/id1299590483) - 群组与社区，面向粉丝的专属主题社区
 - [Unsplash](https://itunes.apple.com/cn/app/id1290631746) - 知名无版权图库官方 App，可用于找壁纸
 - [NOMO](https://itunes.apple.com/cn/app/id1362548649) - 一个致力于模仿拍立得体验的相机 App
-- [雨时](https://itunes.apple.com/cn/app/id1059718989) - 一个设计简洁、文字为主的天气 App
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
 - [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
@@ -119,5 +160,4 @@
 - [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
 - [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
 - [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
-- [WeatherKit](https://itunes.apple.com/cn/app/id1076414499) - 精致简洁的天气 App
 - 周五日历 - 今天是周五吗？
