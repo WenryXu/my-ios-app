@@ -5,12 +5,9 @@
 - [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
 - [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
 - [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
-- [叨叨记账](https://itunes.apple.com/cn/app/id1373569133) - 一款与虚拟人物对话形式进行记账的记账 App
 
 ## 参考
 
-- [Nihon](https://itunes.apple.com/cn/app/id1315486029) - 日本传统色，By KyXu，收费
-- [收趣](https://itunes.apple.com/cn/app/id1072254626) - 云收藏夹、云书签夹，可以理解为类似 Pocket 的稍后阅读工具
 - [捷径社区](https://apps.apple.com/cn/app/id1440424713) - 发现和分享快捷指令
 - [什么垃圾](https://apps.apple.com/cn/app/id1470569000) - 垃圾分类指南
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
