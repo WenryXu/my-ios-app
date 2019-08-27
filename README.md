@@ -24,7 +24,6 @@
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
-- [落格输入法 X](https://itunes.apple.com/cn/app/id1373102819) - 知名双拼输入法，支持全拼了，收费
 - [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
 - [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
 - [晓时](https://itunes.apple.com/cn/app/id1439971276) - 一款世界时钟
@@ -37,7 +36,6 @@
 - [须臾](https://apps.apple.com/cn/app/id1384089839) - 基于一万小时定律的项目时间计时器
 - [兰亭日志](https://apps.apple.com/cn/app/id1439424286) - 模块化日记本
 - [小日常](https://apps.apple.com/cn/app/id1263789061) - 习惯管理与追踪
-- [Snapin](https://apps.apple.com/cn/app/id1457539779) - 截图即笔记
 - [有数](https://apps.apple.com/cn/app/id721606556) - 重新定义计算器
 - [花样文字](https://apps.apple.com/cn/app/id1438854446) - 特殊的文字效果
 - [一炷香](https://apps.apple.com/cn/app/id1033781459) - 古风冥想与白噪音
