@@ -14,6 +14,7 @@
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
 - [不忘词典](https://apps.apple.com/cn/app/id1453514210) - 利用遗忘曲线帮你记单词的电子词典
 - [2019 字体日历](https://apps.apple.com/cn/app/id1446449483) - 通过日历的方式每天价绍一款字体
+- [Symbols](https://apps.apple.com/cn/app/id652475637) - Unicode 符号合集
 
 ## 工具
 
@@ -71,6 +72,8 @@
 - [紫禁城600](https://apps.apple.com/cn/app/id1435759076) - 在手机上游览整个紫禁城
 - [华夏万象](https://apps.apple.com/cn/app/id1471797248) - 介绍中国各省份历史、地理、文化
 - [写字先生](https://apps.apple.com/cn/app/id763231885) - 临摹书法
+- [算法动画图解](https://apps.apple.com/cn/app/id1047532631) - 用动画的形式学习算法
+- [汉字的故事](https://apps.apple.com/cn/app/id1439752412) - 临摹甲骨文
 
 ## 旅游
 
