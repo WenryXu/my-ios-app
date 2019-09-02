@@ -40,6 +40,7 @@
 - [花样文字](https://apps.apple.com/cn/app/id1438854446) - 特殊的文字效果
 - [一炷香](https://apps.apple.com/cn/app/id1033781459) - 古风冥想与白噪音
 - [小时刻](https://apps.apple.com/cn/app/id1435733820) - 事件计时器
+- [帮你决定](https://apps.apple.com/cn/app/id1449450149) - 帮你轻松告别选择困难症
 
 ## 健康健美
 
