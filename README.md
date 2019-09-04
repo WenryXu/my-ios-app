@@ -42,6 +42,7 @@
 - [一炷香](https://apps.apple.com/cn/app/id1033781459) - 古风冥想与白噪音
 - [小时刻](https://apps.apple.com/cn/app/id1435733820) - 事件计时器
 - [帮你决定](https://apps.apple.com/cn/app/id1449450149) - 帮你轻松告别选择困难症
+- [换算一下](https://apps.apple.com/cn/app/id1463351756) - 多功能单位转换器
 
 ## 健康健美
 
@@ -74,6 +75,7 @@
 - [写字先生](https://apps.apple.com/cn/app/id763231885) - 临摹书法
 - [算法动画图解](https://apps.apple.com/cn/app/id1047532631) - 用动画的形式学习算法
 - [汉字的故事](https://apps.apple.com/cn/app/id1439752412) - 临摹甲骨文
+- [月如绘本馆](https://apps.apple.com/cn/app/id1465447893) - 在线儿童绘本馆
 
 ## 旅游
 
@@ -145,6 +147,7 @@
 - [喵记](https://apps.apple.com/cn/app/id1413040586) - 快速记录想法、照片和创建待办清单
 - [Listify](https://apps.apple.com/cn/app/id1410668897) - 极简卡片设计的清单应用
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
+- [Progress](https://apps.apple.com/cn/app/id1460584174) - 进度管理
 
 ## 新闻
 
