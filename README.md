@@ -43,6 +43,7 @@
 - [小时刻](https://apps.apple.com/cn/app/id1435733820) - 事件计时器
 - [帮你决定](https://apps.apple.com/cn/app/id1449450149) - 帮你轻松告别选择困难症
 - [换算一下](https://apps.apple.com/cn/app/id1463351756) - 多功能单位转换器
+- [OneDay](https://apps.apple.com/cn/app/id1250290965) - 倒数日
 
 ## 健康健美
 
@@ -52,6 +53,7 @@
 - [小睡眠](https://itunes.apple.com/cn/app/id1194338569) - 冥想、助眠白噪声
 - [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
 - [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
+- [UVLens](https://apps.apple.com/cn/app/id1060878359) - 紫外线指数检测器
 
 ## 教育
 
@@ -117,6 +119,7 @@
 - [照片提取](https://itunes.apple.com/cn/app/id1330473897) - 在视频、Gif、Live Photo 中提取静态照片，收费
 - [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
 - [相册管家](https://apps.apple.com/cn/app/id1454907835) - 一键删除多个相册和图片
+- [咔嗒](https://apps.apple.com/cn/app/id1442764565) - AI 智能修图
 
 ## 生活
 
