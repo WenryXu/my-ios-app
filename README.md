@@ -54,6 +54,7 @@
 - [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
 - [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
 - [UVLens](https://apps.apple.com/cn/app/id1060878359) - 紫外线指数检测器
+- [OffScreen](https://apps.apple.com/cn/app/id1474340105) - 屏幕使用时间统计
 
 ## 教育
 
