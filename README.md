@@ -216,6 +216,9 @@
 - [计算器 2：游戏](https://apps.apple.com/cn/app/id1436348748) - 关于数学运算的游戏
 - [SARKWO](https://apps.apple.com/cn/app/id1462867280) - 沿着路径将圆点移动到目标位置
 - [极光之路](https://apps.apple.com/cn/app/id1445523670) - 光的反射
+- [Two Dots](https://apps.apple.com/cn/app/id880178264) - 连接同颜色的点，每次消除更多的点
+- [Rope Rescue!](https://apps.apple.com/cn/app/id1474676263) - 给小人们连出一条逃生之路
+- [Maze CrazE](https://apps.apple.com/cn/app/id1453577300) - 迷宫
 
 ## 编程游戏
 
