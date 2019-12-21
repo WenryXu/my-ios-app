@@ -4,22 +4,16 @@
 
 - [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
 - [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
-- [闪电记账](https://itunes.apple.com/cn/app/id1456232229) - 能够快速完成记账操作的记账 App
 
 ## 参考
 
 - [捷径社区](https://apps.apple.com/cn/app/id1440424713) - 发现和分享快捷指令
-- [什么垃圾](https://apps.apple.com/cn/app/id1470569000) - 垃圾分类指南
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
-- [不忘词典](https://apps.apple.com/cn/app/id1453514210) - 利用遗忘曲线帮你记单词的电子词典
 - [2019 字体日历](https://apps.apple.com/cn/app/id1446449483) - 通过日历的方式每天价绍一款字体
-- [Symbols](https://apps.apple.com/cn/app/id652475637) - Unicode 符号合集
 
 ## 工具
 
-- [Calzy 3](https://apps.apple.com/cn/app/id623690732) - 计算器，可以暂存多个结果
-- [Notion](https://apps.apple.com/cn/app/id1232780281) - 模块化笔记工具
 - [倒数日 Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
 - [PutApp](https://apps.apple.com/cn/app/id1456379965) - 应用分类整理工具
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
@@ -95,7 +89,6 @@
 
 - [Moke](https://itunes.apple.com/cn/app/id880813963) - 非常好用的第三方微博客户端
 - [Tweetbot 5 for Twitter](https://apps.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
-- [Dcard](https://apps.apple.com/cn/app/id951353454) - 台湾匿名社区
 
 ## 摄影与录像
 
@@ -157,26 +150,16 @@
 
 - [Unread](https://apps.apple.com/cn/app/id1252376153) - RSS 阅读器
 - [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
-- [岛读 · 日课](https://itunes.apple.com/cn/app/id1193102860) - 每天更新一篇文章，极简 UI
 
 ## 音乐
 
 - [Moon FM](https://apps.apple.com/cn/app/id1243771413) - 泛用型播客客户端
 - [猫耳FM](https://apps.apple.com/cn/app/id1148465254) - 收听有声广播剧
-- [MOO音乐](https://itunes.apple.com/cn/app/id1434269952) - 探索型音乐播放器
-
-## 娱乐
-
-- [隐形守护者](https://itunes.apple.com/cn/app/id1459076631) - 作为中共地下党潜伏并寻求获胜机会，互动影像式澄光游戏，收费
 
 ## 休闲游戏
 
 - [Alto's Adventure](https://itunes.apple.com/cn/app/id950812012) - 画风唯美的跑酷游戏，收费
 - [阿尔托的奥德赛](https://itunes.apple.com/cn/app/id1182456409) - 画风唯美的跑酷游戏，收费
-- [月圆之夜](https://itunes.apple.com/cn/app/id1278845241) - 卡牌游戏，小红帽的森林大冒险，收费
-- [光·遇](https://apps.apple.com/cn/app/id1344733855) - 在广阔的游戏世界中达成心流的体验
-- [OPUS：灵魂之桥](https://itunes.apple.com/cn/app/id1339119477) - 直击灵魂的末日探险游戏
-- [见](https://itunes.apple.com/cn/app/id1454749693) - 体验盲人出行
 
 ## 益智解谜游戏
 
