@@ -39,6 +39,7 @@
 - [换算一下](https://apps.apple.com/cn/app/id1463351756) - 多功能单位转换器
 - [OneDay](https://apps.apple.com/cn/app/id1250290965) - 倒数日
 - [日出月落](https://apps.apple.com/cn/app/id1485087619) - 查看日出日落时间，和摄影界的「黄金时刻」「蓝调时刻」
+- [滚动截屏](https://apps.apple.com/cn/app/id1486130680) - 通过录屏的方式完成滚动截屏
 
 ## 健康健美
 
@@ -116,6 +117,7 @@
 - [Exif Viewer](https://itunes.apple.com/cn/app/id944118456) - 查看、删除照片的 Exif 数据，收费
 - [相册管家](https://apps.apple.com/cn/app/id1454907835) - 一键删除多个相册和图片
 - [咔嗒](https://apps.apple.com/cn/app/id1442764565) - AI 智能修图
+- [证件照研究院](https://apps.apple.com/cn/app/id1202793547) - 自助拍摄证件照，换尺寸、美颜、换底色、换衣服
 
 ## 生活
 
