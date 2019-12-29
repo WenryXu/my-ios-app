@@ -38,6 +38,7 @@
 - [帮你决定](https://apps.apple.com/cn/app/id1449450149) - 帮你轻松告别选择困难症
 - [换算一下](https://apps.apple.com/cn/app/id1463351756) - 多功能单位转换器
 - [OneDay](https://apps.apple.com/cn/app/id1250290965) - 倒数日
+- [日出月落](https://apps.apple.com/cn/app/id1485087619) - 查看日出日落时间，和摄影界的「黄金时刻」「蓝调时刻」
 
 ## 健康健美
 
@@ -49,6 +50,7 @@
 - [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
 - [UVLens](https://apps.apple.com/cn/app/id1060878359) - 紫外线指数检测器
 - [OffScreen](https://apps.apple.com/cn/app/id1474340105) - 屏幕使用时间统计
+- [Blink](https://apps.apple.com/cn/app/id1472574128) - 用 Face ID 做眼保健操
 
 ## 教育
 
@@ -127,6 +129,7 @@
 - [我的天气](https://itunes.apple.com/cn/app/id1003715695) - 皮肤很棒，现在的天气 App 拼的就是设计
 - [诗雨](https://itunes.apple.com/cn/app/id1193114042) - 会吟诗的天气 App
 - [雨时](https://itunes.apple.com/cn/app/id1059718989) - 一个设计简洁、文字为主的天气 App
+- [Mr. Weather 2](https://apps.apple.com/cn/app/id1453150372) - 监控天气变化，满足监控条件时发送通知
 - [WeatherKit](https://itunes.apple.com/cn/app/id1076414499) - 精致简洁的天气 App
 
 ## 图书
