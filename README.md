@@ -210,4 +210,8 @@
 
 ## 编程游戏
 
+- [啊哈编程星球](https://apps.apple.com/cn/app/id1382140843) - 用积木控制角色闯关
+- [Code Karts](https://apps.apple.com/cn/app/id1222704761) - 用积木控制赛车的方向，到达终点
+- [编程王国：米亚夺宝](https://apps.apple.com/cn/app/id1178961848) - 使用 Scratch 语法积木块完成关卡
+- [TRYBIT LOGIC](https://apps.apple.com/cn/app/id1188571814) - 与、或、非专项训练
 - [异常](https://itunes.apple.com/cn/app/id1439153819) - AI 编程游戏，控制你的机器人打败敌人，收费
