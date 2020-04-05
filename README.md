@@ -40,6 +40,8 @@
 - [OneDay](https://apps.apple.com/cn/app/id1250290965) - 倒数日
 - [日出月落](https://apps.apple.com/cn/app/id1485087619) - 查看日出日落时间，和摄影界的「黄金时刻」「蓝调时刻」
 - [滚动截屏](https://apps.apple.com/cn/app/id1486130680) - 通过录屏的方式完成滚动截屏
+- [OneScreen](https://apps.apple.com/cn/app/id1355476695) - 带壳截图
+- [Calzy](https://apps.apple.com/cn/app/id623690732) - 简洁轻量的计算器
 
 ## 健康健美
 
@@ -51,7 +53,6 @@
 - [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
 - [UVLens](https://apps.apple.com/cn/app/id1060878359) - 紫外线指数检测器
 - [OffScreen](https://apps.apple.com/cn/app/id1474340105) - 屏幕使用时间统计
-- [Blink](https://apps.apple.com/cn/app/id1472574128) - 用 Face ID 做眼保健操
 
 ## 教育
 
@@ -90,7 +91,7 @@
 
 ## 社交
 
-- [Moke](https://itunes.apple.com/cn/app/id880813963) - 非常好用的第三方微博客户端
+- [Moke](https://apps.apple.com/cn/app/id1481905050) - 非常好用的第三方微博客户端
 - [Tweetbot 5 for Twitter](https://apps.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
 
 ## 摄影与录像
@@ -137,8 +138,6 @@
 ## 图书
 
 - [晒书房](https://itunes.apple.com/cn/app/id484443604) - 藏书管理，可直接扫描 ISBN 添加书籍
-- [ONE · 一个](https://itunes.apple.com/cn/app/id539190656) - 日推精选内容，包含多种内容形态
-- [天猫读书](https://itunes.apple.com/cn/app/id1373632655) - 卡片式首页的读书 App
 
 ## 效率
 
@@ -150,16 +149,17 @@
 - [Listify](https://apps.apple.com/cn/app/id1410668897) - 极简卡片设计的清单应用
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 - [Progress](https://apps.apple.com/cn/app/id1460584174) - 进度管理
+- [效率控](https://apps.apple.com/cn/app/id1435159279) - 众多实用工具合集
 
 ## 新闻
 
 - [Unread](https://apps.apple.com/cn/app/id1252376153) - RSS 阅读器
 - [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
+- [Reeder 4](https://apps.apple.com/cn/app/id1449412357) - RSS 阅读器
 
 ## 音乐
 
-- [Moon FM](https://apps.apple.com/cn/app/id1243771413) - 泛用型播客客户端
-- [猫耳FM](https://apps.apple.com/cn/app/id1148465254) - 收听有声广播剧
+- [小宇宙](https://apps.apple.com/cn/app/id1488894313) - 泛用性播客客户端
 
 ## 休闲游戏
 
