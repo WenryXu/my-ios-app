@@ -20,7 +20,6 @@
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
 - [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
 - [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
-- [Habitify](https://itunes.apple.com/cn/app/id1111447047) - 习惯养成工具
 - [晓时](https://itunes.apple.com/cn/app/id1439971276) - 一款世界时钟
 - [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
 - [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
