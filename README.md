@@ -148,7 +148,7 @@
 - [Listify](https://apps.apple.com/cn/app/id1410668897) - 极简卡片设计的清单应用
 - [Blink](https://itunes.apple.com/cn/app/id1182856129) - 设计思路清奇的备忘录
 - [Progress](https://apps.apple.com/cn/app/id1460584174) - 进度管理
-- [效率控](https://apps.apple.com/cn/app/id1435159279) - 众多实用工具合集
+- 👑 [效率控](https://apps.apple.com/cn/app/id1435159279) - 众多实用工具合集
 
 ## 新闻
 
