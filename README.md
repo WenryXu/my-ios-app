@@ -14,17 +14,17 @@
 
 ## 工具
 
-- [倒数日 Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
+- 👑 [倒数日 Air](https://itunes.apple.com/cn/app/id1113365292) - 精美的倒数日 App，支持正数倒数，支持农历
 - [PutApp](https://apps.apple.com/cn/app/id1456379965) - 应用分类整理工具
 - [JSBox](https://itunes.apple.com/cn/app/id1312014438) - JavaScript 集成开发环境，可以用 JavaScript 编写自己的 iOS 小工具，收费
 - [Pin](https://itunes.apple.com/cn/app/id1039643846) - 剪贴板扩展，收费
-- [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
-- [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
+- 👑 [白描](https://itunes.apple.com/cn/app/id1249901692) - 文件扫描与文字识别，收费
+- 👑 [Calcbot 2](https://itunes.apple.com/cn/app/id376694347) - 可能是最简单好用的计算器，付费解锁单位转换等更多功能
 - [晓时](https://itunes.apple.com/cn/app/id1439971276) - 一款世界时钟
 - [拾色器](https://itunes.apple.com/cn/app/id1163494239) - 可以从任何照片中获取颜色
 - [小记](https://itunes.apple.com/cn/app/id975031499) - 一个纵向书写的古典文字笔记应用，收费
 - [Year Timer](https://itunes.apple.com/cn/app/id1359786804) - 记录这一年过去了多少
-- [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
+- 👑 [熊猫吃短信](https://itunes.apple.com/cn/app/id1319191852) - ai 垃圾短信过滤 App，收费
 - [小米计算器](https://itunes.apple.com/cn/app/id1195791018) - 全能计算器，支持多种单位转换、大写数字、汇率转换、亲戚关系计算等，但开启反应慢
 - [小历](https://apps.apple.com/cn/app/id1031088612) - 日历
 - [须臾](https://apps.apple.com/cn/app/id1384089839) - 基于一万小时定律的项目时间计时器
@@ -35,7 +35,7 @@
 - [一炷香](https://apps.apple.com/cn/app/id1033781459) - 古风冥想与白噪音
 - [小时刻](https://apps.apple.com/cn/app/id1435733820) - 事件计时器
 - [帮你决定](https://apps.apple.com/cn/app/id1449450149) - 帮你轻松告别选择困难症
-- [换算一下](https://apps.apple.com/cn/app/id1463351756) - 多功能单位转换器
+- 👑 [换算一下](https://apps.apple.com/cn/app/id1463351756) - 多功能单位转换器
 - [OneDay](https://apps.apple.com/cn/app/id1250290965) - 倒数日
 - [日出月落](https://apps.apple.com/cn/app/id1485087619) - 查看日出日落时间，和摄影界的「黄金时刻」「蓝调时刻」
 - [滚动截屏](https://apps.apple.com/cn/app/id1486130680) - 通过录屏的方式完成滚动截屏
@@ -51,7 +51,7 @@
 - [My Water](https://itunes.apple.com/cn/app/id1395390713) - 饮水记录与提醒
 - [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
 - [UVLens](https://apps.apple.com/cn/app/id1060878359) - 紫外线指数检测器
-- [OffScreen](https://apps.apple.com/cn/app/id1474340105) - 屏幕使用时间统计
+- 👑 [OffScreen](https://apps.apple.com/cn/app/id1474340105) - 屏幕使用时间统计
 
 ## 教育
 
@@ -95,9 +95,9 @@
 
 ## 摄影与录像
 
-- [Google 相册](https://itunes.apple.com/cn/app/id962194608) - 照片归档整理和储存
-- [Pico](https://itunes.apple.com/cn/app/id1395700699) - 图片标注工具，加字、画框、模糊等等不在话下，收费
-- [Picsew](https://itunes.apple.com/cn/app/id1208145167) - 自动识别长图拼接，收费
+- 👑 [Google 相册](https://itunes.apple.com/cn/app/id962194608) - 照片归档整理和储存
+- 👑 [Pico](https://itunes.apple.com/cn/app/id1395700699) - 图片标注工具，加字、画框、模糊等等不在话下，收费
+- 👑 [Picsew](https://itunes.apple.com/cn/app/id1208145167) - 自动识别长图拼接，收费
 - [速拼](https://itunes.apple.com/cn/app/id1439758554) - 自动识别长图拼接，支持字幕拼接
 - [Tailor](https://apps.apple.com/cn/app/id926653095) - 长图拼接
 - [克拉壁纸](https://itunes.apple.com/cn/app/id1233738041) - 精选壁纸与壁纸制作
@@ -140,7 +140,7 @@
 
 ## 效率
 
-- [Notability](https://apps.apple.com/cn/app/id360593530) - 手写笔记与 PDF 标注应用
+- 👑 [Notability](https://apps.apple.com/cn/app/id360593530) - 手写笔记与 PDF 标注应用
 - [Things 3](https://itunes.apple.com/cn/app/id904237743) - 待办事项列表，收费
 - [Microsoft To-Do](https://itunes.apple.com/cn/app/id1212616790) - 一款着重突出「今日事务」的 To Do 应用
 - [水滴清单](https://apps.apple.com/cn/app/id1173405219) - 用语音创建待办事项
@@ -154,11 +154,11 @@
 
 - [Unread](https://apps.apple.com/cn/app/id1252376153) - RSS 阅读器
 - [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
-- [Reeder 4](https://apps.apple.com/cn/app/id1449412357) - RSS 阅读器
+- 👑 [Reeder 5](https://apps.apple.com/app/id1529445840) - RSS 阅读器
 
 ## 音乐
 
-- [小宇宙](https://apps.apple.com/cn/app/id1488894313) - 泛用性播客客户端
+- 👑 [小宇宙](https://apps.apple.com/cn/app/id1488894313) - 泛用性播客客户端
 
 ## 休闲游戏
 
