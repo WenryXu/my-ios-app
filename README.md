@@ -90,8 +90,9 @@
 
 ## 社交
 
-- [Moke](https://apps.apple.com/cn/app/id1481905050) - 非常好用的第三方微博客户端
+- [Moke](https://apps.apple.com/cn/app/id1481905050) - 第三方微博客户端
 - [Tweetbot 5 for Twitter](https://apps.apple.com/cn/app/id1018355599) - 非常好用的第三方 Twitter 客户端
+- 👑 [VVebo](https://apps.apple.com/cn/app/id670910957) - 第三方微博客户端
 
 ## 摄影与录像
 
