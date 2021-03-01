@@ -44,6 +44,10 @@
 - [DAMA](https://apps.apple.com/cn/app/id1534690075) - 智能识别图中隐私文字并打码
 - [OneWidget](https://apps.apple.com/cn/app/id1527355884) - 实用桌面小组件工具集
 - [谜底空白](https://apps.apple.com/cn/app/id1551277937) - 空白桌面小组件
+- [懒猫存钱](https://apps.apple.com/cn/app/id1521979672) - 以存钱为主体的记账工具
+- [HomeTime](https://apps.apple.com/cn/app/id1505273847) - 记录陪伴在家人身边的每一天
+- [小熊倒数](https://apps.apple.com/cn/app/id1536711520) - 倒数日
+- [WordBoard](https://apps.apple.com/cn/app/id960167417) - 只支持输入预设短语的输入法
 
 ## 健康健美
 
