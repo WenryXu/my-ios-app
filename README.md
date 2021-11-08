@@ -11,6 +11,7 @@
 - [PANTONE Studio](https://itunes.apple.com/cn/app/id329515634) - 关于一切色彩的一切
 - [冒险指南](https://itunes.apple.com/cn/app/id1412479708) - 《塞尔达传说：旷野之息》百科全书
 - [2019 字体日历](https://apps.apple.com/cn/app/id1446449483) - 通过日历的方式每天价绍一款字体
+- [365 传统色](https://apps.apple.com/cn/app/id1460512281) - 以华色、和色、洋色和原色四种传统色为基础，兼具名言短句赏析和日历
 
 ## 工具
 
@@ -48,6 +49,7 @@
 - [HomeTime](https://apps.apple.com/cn/app/id1505273847) - 记录陪伴在家人身边的每一天
 - [小熊倒数](https://apps.apple.com/cn/app/id1536711520) - 倒数日
 - [WordBoard](https://apps.apple.com/cn/app/id960167417) - 只支持输入预设短语的输入法
+- [mooding](https://apps.apple.com/cn/app/id1552314173) - 心情日记
 
 ## 健康健美
 
