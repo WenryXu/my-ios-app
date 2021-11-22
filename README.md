@@ -4,6 +4,8 @@
 
 - [极简汇率](https://itunes.apple.com/cn/app/id851033695) - 可能是最简单好用的汇率转换和查询工具
 - [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
+- [懒猫存钱](https://apps.apple.com/cn/app/id1521979672) - 以存钱为主体的记账工具
+- [记账相机](https://apps.apple.com/cn/app/id1536334652) - 拍照自动记账
 
 ## 参考
 
@@ -30,7 +32,6 @@
 - [小历](https://apps.apple.com/cn/app/id1031088612) - 日历
 - [须臾](https://apps.apple.com/cn/app/id1384089839) - 基于一万小时定律的项目时间计时器
 - [兰亭日志](https://apps.apple.com/cn/app/id1439424286) - 模块化日记本
-- [小日常](https://apps.apple.com/cn/app/id1263789061) - 习惯管理与追踪
 - [有数](https://apps.apple.com/cn/app/id721606556) - 重新定义计算器
 - [花样文字](https://apps.apple.com/cn/app/id1438854446) - 特殊的文字效果
 - [一炷香](https://apps.apple.com/cn/app/id1033781459) - 古风冥想与白噪音
@@ -45,11 +46,11 @@
 - [DAMA](https://apps.apple.com/cn/app/id1534690075) - 智能识别图中隐私文字并打码
 - [OneWidget](https://apps.apple.com/cn/app/id1527355884) - 实用桌面小组件工具集
 - [谜底空白](https://apps.apple.com/cn/app/id1551277937) - 空白桌面小组件
-- [懒猫存钱](https://apps.apple.com/cn/app/id1521979672) - 以存钱为主体的记账工具
 - [HomeTime](https://apps.apple.com/cn/app/id1505273847) - 记录陪伴在家人身边的每一天
 - [小熊倒数](https://apps.apple.com/cn/app/id1536711520) - 倒数日
 - [WordBoard](https://apps.apple.com/cn/app/id960167417) - 只支持输入预设短语的输入法
 - [mooding](https://apps.apple.com/cn/app/id1552314173) - 心情日记
+- [隐私研究所](https://apps.apple.com/cn/app/id1590821653) - 解析 iOS 隐私报告，统计隐私使用情况
 
 ## 健康健美
 
@@ -61,6 +62,9 @@
 - [习惯管家](https://apps.apple.com/cn/app/id1253577148) - 养成健康习惯
 - [UVLens](https://apps.apple.com/cn/app/id1060878359) - 紫外线指数检测器
 - 👑 [OffScreen](https://apps.apple.com/cn/app/id1474340105) - 屏幕使用时间统计
+- [小日常](https://apps.apple.com/cn/app/id1263789061) - 习惯管理与追踪
+- [Aphrodite](https://apps.apple.com/cn/app/id1568289454) - 性生活日历
+- [Grow 格物](https://apps.apple.com/cn/app/id1518212955) - 习惯养成工具
 
 ## 教育
 
@@ -131,6 +135,7 @@
 - [证件照研究院](https://apps.apple.com/cn/app/id1202793547) - 自助拍摄证件照，换尺寸、美颜、换底色、换衣服
 - 👑 [白描证件照](https://apps.apple.com/cn/app/id1545812838) - 证件照工具
 - [Varlens](https://apps.apple.com/cn/app/id1535205062) - 胜似单反相机
+- [Light 壁纸](https://apps.apple.com/cn/app/id1564770460) - 基于图案库无限生成配色的壁纸
 
 ## 生活
 
@@ -167,7 +172,6 @@
 ## 新闻
 
 - [Unread](https://apps.apple.com/cn/app/id1252376153) - RSS 阅读器
-- [轻芒杂志](https://itunes.apple.com/cn/app/id1121520457) - 在线杂志，日推精选
 - 👑 [Reeder 5](https://apps.apple.com/app/id1529445840) - RSS 阅读器
 
 ## 音乐
@@ -220,11 +224,3 @@
 - [Two Dots](https://apps.apple.com/cn/app/id880178264) - 连接同颜色的点，每次消除更多的点
 - [Rope Rescue!](https://apps.apple.com/cn/app/id1474676263) - 给小人们连出一条逃生之路
 - [Maze CrazE](https://apps.apple.com/cn/app/id1453577300) - 迷宫
-
-## 编程游戏
-
-- [啊哈编程星球](https://apps.apple.com/cn/app/id1382140843) - 用积木控制角色闯关
-- [Code Karts](https://apps.apple.com/cn/app/id1222704761) - 用积木控制赛车的方向，到达终点
-- [编程王国：米亚夺宝](https://apps.apple.com/cn/app/id1178961848) - 使用 Scratch 语法积木块完成关卡
-- [TRYBIT LOGIC](https://apps.apple.com/cn/app/id1188571814) - 与、或、非专项训练
-- [异常](https://itunes.apple.com/cn/app/id1439153819) - AI 编程游戏，控制你的机器人打败敌人，收费
