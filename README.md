@@ -6,6 +6,8 @@
 - [鲨鱼记账](https://itunes.apple.com/cn/app/id1079718756) - 可能是最好的手机记账 App
 - [懒猫存钱](https://apps.apple.com/cn/app/id1521979672) - 以存钱为主体的记账工具
 - [记账相机](https://apps.apple.com/cn/app/id1536334652) - 拍照自动记账
+- [图图记账](https://apps.apple.com/cn/app/id1546356856) - 高颜值记账 App
+- [Percento](https://apps.apple.com/cn/app/id1494319934) - 资产管理
 
 ## 参考
 
