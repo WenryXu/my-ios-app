@@ -8,6 +8,7 @@
 - [记账相机](https://apps.apple.com/cn/app/id1536334652) - 拍照自动记账
 - [图图记账](https://apps.apple.com/cn/app/id1546356856) - 高颜值记账 App
 - [Percento](https://apps.apple.com/cn/app/id1494319934) - 资产管理
+- [Cookie 记账](https://apps.apple.com/cn/app/id1559943673) - 记账工具
 
 ## 参考
 
@@ -67,6 +68,8 @@
 - [小日常](https://apps.apple.com/cn/app/id1263789061) - 习惯管理与追踪
 - [Aphrodite](https://apps.apple.com/cn/app/id1568289454) - 性生活日历
 - [Grow 格物](https://apps.apple.com/cn/app/id1518212955) - 习惯养成工具
+- [Grow](https://apps.apple.com/cn/app/id1560604814) - 习惯养成工具，健康类习惯可自动记录
+- [喵一会](https://apps.apple.com/cn/app/id1542448354) - 清单与习惯养成
 
 ## 教育
 
@@ -138,6 +141,7 @@
 - 👑 [白描证件照](https://apps.apple.com/cn/app/id1545812838) - 证件照工具
 - [Varlens](https://apps.apple.com/cn/app/id1535205062) - 胜似单反相机
 - [Light 壁纸](https://apps.apple.com/cn/app/id1564770460) - 基于图案库无限生成配色的壁纸
+- [减法相册](https://apps.apple.com/cn/app/id1580710672) - 照片整理工具
 
 ## 生活
 
